@@ -1,4 +1,6 @@
-# Casa Caribe
+cd web
+npm install
+npm run dev# Casa Caribe
 
 Casa Caribe es un monorepo que contiene tanto una aplicación móvil Android como una aplicación web en Next.js.
 
