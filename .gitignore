@@ -1,4 +1,4 @@
-# Gradle files
+# Android/Gradle files
 .gradle/
 build/
 
@@ -32,3 +32,32 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Node.js / Web dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js
+.next/
+out/
+
+# Production build
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
